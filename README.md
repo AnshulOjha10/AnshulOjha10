@@ -15,11 +15,6 @@
 *Database:* MongoDB  
 *Tools:* Git, GitHub, Postman, VSCode  
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=your-github-username&theme=radical" />
-</p>
-
 ### 📫 Let's Connect!
 <div align="left">
   <a href="https://www.instagram.com/aanshul_ojha07/" target="_blank">
